@@ -1,0 +1,14 @@
+.strike
+{
+     text-decoration:line-through;
+ }
+ ul{
+     font-family: 'Courier New', Courier, monospace;
+     color: red;
+     background-color: gray;
+     color: lightcoral;
+     padding: 5px;
+     font-size: 30px;
+     border: 2px solid black;
+ }
+ 
